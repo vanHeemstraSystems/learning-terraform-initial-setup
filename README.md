@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+learning-terraform-initial-setup
+# Learning Terraform - Initial Setup
 
-Based on "ABC" at https://www.abc.com/
+Based on "Learning Terraform" at https://github.com/vanHeemstraSystems/learning-terraform
+
+Based on "Initial Setup & Basic Operations" at https://www.youtube.com/watch?v=UiBmdxIIiqE&list=PLsOrrjBMkLaS-IdoViqBNHyj5slBujhQP
 
 ## 100 - Introduction
 
