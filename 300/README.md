@@ -27,15 +27,21 @@ outputs.tf
 
 Terraform works up a folder, takes inputs, and produces outputs.
 
-I run terraform init
+I run terraform init.
 
 ```
 $ terraform init
 ```
 
-```Init``` loads providers and downloads modules per on terraform plan.
+```Init``` loads providers and downloads modules.
 
-Plan is a read-only operation that analyzes dependencies and sequences a plan of steps to execute across all the providers you play within your solution.
+I run terraform plan.
+
+```
+$ terraform plan
+```
+
+```Plan``` is a read-only operation that analyzes dependencies and sequences a plan of steps to execute across all the providers you play with in your solution.
 
 I run terraform apply.
 
