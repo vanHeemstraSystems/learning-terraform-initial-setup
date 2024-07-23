@@ -1,6 +1,6 @@
 # 300 - Building Our Application
 
-TRANSSCRIPT
+TRANSCRIPT
 
 Watch how I set up a folder to be a terraform solution 
 
