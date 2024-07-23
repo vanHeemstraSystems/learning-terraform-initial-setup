@@ -1,4 +1,4 @@
-# 300 - Building Our Application
+# 300 - Learning Our Subject
 
 TRANSCRIPT
 
